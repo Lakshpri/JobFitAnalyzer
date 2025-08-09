@@ -1,0 +1,23 @@
+Resume Analysis Report
+==============================
+
+1️⃣ Skills Match:
+Score: 50%
+Matched Skills: python, machine learning, data analysis, sql, aws, scikit-learn
+Missing Important Skills: docker, kubernetes, tensorflow, pytorch, pandas, numpy
+
+2️⃣ Education Match:
+Degree: Bachelor of Technology
+Score: 78%
+
+3️⃣ Experience Match:
+Total Experience: 0 years
+Score: 0%
+
+4️⃣ Resume Quality Check:
+Contact Info: Missing
+Formatting: Good
+Length: Too short
+
+5️⃣ Final Fit Score: 44%
+The resume doesn't meet most requirements.
